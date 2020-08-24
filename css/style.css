@@ -1065,7 +1065,7 @@ ol {
 
 .categories__text h1 {
 	font-family: "Cookie", cursive;
-	color: white;
+	color: black;
 	margin-bottom: 5px;
 }
 
@@ -1076,7 +1076,7 @@ ol {
 
 .categories__text p {
 	margin-bottom: 10px;
-	color:white;	
+	color:black;	
 }
 
 .categories__text a {

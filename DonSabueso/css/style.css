@@ -862,6 +862,8 @@ ol {
 
 .footer__logo {
 	margin-bottom: 20px;
+	width: 40%;
+	text-align: center;
 }
 
 .footer__payment a {
@@ -1067,16 +1069,23 @@ ol {
 	font-family: "Cookie", cursive;
 	color: black;
 	margin-bottom: 5px;
+	text-align: center;
 }
 
 .categories__text h4 {
 	color: #111111;
 	font-weight: 700;
 }
+.categories__text h5 {
+	color: #111111;
+	font-weight: 700;
+	text-align: center;
+}
 
 .categories__text p {
 	margin-bottom: 10px;
-	color:black;	
+	color:black;
+		text-align: center;
 }
 
 .categories__text a {

@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/apv3/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/apv3/static/js/main.a6571ce6.chunk.js",
+    "main.js.map": "/apv3/static/js/main.a6571ce6.chunk.js.map",
+    "runtime-main.js": "/apv3/static/js/runtime-main.7019524a.js",
+    "runtime-main.js.map": "/apv3/static/js/runtime-main.7019524a.js.map",
+    "static/js/2.2e69e72d.chunk.js": "/apv3/static/js/2.2e69e72d.chunk.js",
+    "static/js/2.2e69e72d.chunk.js.map": "/apv3/static/js/2.2e69e72d.chunk.js.map",
+    "index.html": "/apv3/index.html",
+    "precache-manifest.2ff4023b942fe2d45c98f1ed3d5eba9f.js": "/apv3/precache-manifest.2ff4023b942fe2d45c98f1ed3d5eba9f.js",
+    "service-worker.js": "/apv3/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/apv3/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2e69e72d.chunk.js.LICENSE.txt": "/apv3/static/js/2.2e69e72d.chunk.js.LICENSE.txt",
+    "static/js/main.a6571ce6.chunk.js.LICENSE.txt": "/apv3/static/js/main.a6571ce6.chunk.js.LICENSE.txt",
+    "static/media/Companero_25.jpg": "/apv3/static/media/Companero_25.2388621b.jpg",
+    "static/media/Dog_Chow_Adultos.jpg": "/apv3/static/media/Dog_Chow_Adultos.3e7a7181.jpg",
+    "static/media/Dog_Chow_Cachorros.jpg": "/apv3/static/media/Dog_Chow_Cachorros.13beea48.jpg",
+    "static/media/Dog_Chow_RP_25.jpg": "/apv3/static/media/Dog_Chow_RP_25.3abbe532.jpg",
+    "static/media/El_Centinela_25.png": "/apv3/static/media/El_Centinela_25.404a94e7.png",
+    "static/media/Flagacan.jpg": "/apv3/static/media/Flagacan.514b0496.jpg",
+    "static/media/Gatina_15.jpg": "/apv3/static/media/Gatina_15.6a1d8fbb.jpg",
+    "static/media/LogoBig.png": "/apv3/static/media/LogoBig.d172fe11.png",
+    "static/media/Pet_Can_25.png": "/apv3/static/media/Pet_Can_25.56fd11b6.png",
+    "static/media/Pet_Cat_15.png": "/apv3/static/media/Pet_Cat_15.c742fd75.png",
+    "static/media/Poder_Canino_25.jpg": "/apv3/static/media/Poder_Canino_25.7af6f61e.jpg",
+    "static/media/X-Dog_Adulto_25.png": "/apv3/static/media/X-Dog_Adulto_25.667643f9.png",
+    "static/media/Xdog_Basic_25.jpg": "/apv3/static/media/Xdog_Basic_25.7596687e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7019524a.js",
+    "static/js/2.2e69e72d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a6571ce6.chunk.js"
+  ]
+}

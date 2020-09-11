@@ -17,8 +17,8 @@ export const Header = () => {
         </div>
         <div id="mobile-menu-wrap"></div>
         <div className="offcanvas__auth">
-          <a href="#">Perros</a>
-          <a href="#">Gatos</a>
+          <a href="#dogs">Perros</a>
+          <a href="#cats">Gatos</a>
         </div>
       </div>
       <header className="header">

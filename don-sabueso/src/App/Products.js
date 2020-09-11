@@ -19,8 +19,11 @@ export const Products = () => {
         <div className="row">
           <div className="col-lg-9 col-md-9">
             <div className="row">
-              {products.map((product, index) => (
-                <Product key={index} product={product} />
+              {dogs.map((product, index) => (
+                <Product id="dogs" key={index} product={product} />
+              ))}
+              {cats.map((product, index) => (
+                <Product id="cats" key={index} product={product} />
               ))}
             </div>
           </div>
@@ -29,7 +32,7 @@ export const Products = () => {
     </section>
   );
 };
-const products = [
+const dogs = [
   {
     image: Flagacan,
     title: `Flagacan 25kg`,
@@ -89,6 +92,8 @@ const products = [
     title: `Poder Canino 25kg`,
     price: `$ 450`,
   },
+];
+const cats = [
   {
     location: `img/shop/Gatina_15.jpg`,
     image: Gatina_15,
@@ -102,9 +107,9 @@ const products = [
     price: `$ 490`,
   },
 ];
-const Product = ({ product }) => {
+const Product = ({ product, id }) => {
   return (
-    <div className="col-lg-4 col-md-6">
+    <div id={id} className="col-lg-4 col-md-6">
       <div className="product__item">
         <div
           className="product__item__pic product-image"

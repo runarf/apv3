@@ -9,7 +9,7 @@ don-sabueso/node_modules
 /coverage
 
 # production
-/build
+don-sabueso/build
 
 # misc
 .DS_Store

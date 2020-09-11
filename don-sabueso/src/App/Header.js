@@ -38,10 +38,10 @@ export const Header = () => {
                     <a href="./index.html">Home</a>
                   </li>
                   <li>
-                    <a href="#">Perros</a>
+                    <a href="#dogs">Perros</a>
                   </li>
                   <li>
-                    <a href="#">Gatos</a>
+                    <a href="#cats">Gatos</a>
                   </li>
                 </ul>
               </nav>

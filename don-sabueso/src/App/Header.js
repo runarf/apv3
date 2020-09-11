@@ -12,7 +12,7 @@ export const Header = () => {
 
         <div className="offcanvas__logo">
           <a href="./index.html">
-            <img src="img/Logo.png" height="50" alt="" />
+            <img src="./img/Logo.png" height="50" alt="" />
           </a>
         </div>
         <div id="mobile-menu-wrap"></div>
